@@ -10,6 +10,10 @@ This Node.js-based application provides real-time tracking capabilities, enablin
 - Real-Time Updates: Continuously receives and displays the latest location data.
 - Geographical Mapping: Visualizes tracked objects on a map using a mapping API.
 
+## SnapShot
+![image](https://github.com/user-attachments/assets/fc6e6933-5d9d-4d46-bbe8-a24b2a5a86f8)
+
+
 ## Tech Stack
 
 Back-End - Node.js, Express.js, Socket.io
